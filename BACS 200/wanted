@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>Wanted Page</title>
+      <link rel="stylesheet" href="wanted.css">
+</head>
+
+<body>
+
+      <header>
+          <h1> WANTED </h1>
+      </header>
+      
+      <main>
+           <h2> WANTED DEAD OR ALIVE </h2>
+           <p> Wanted : Micheal Myers </p>
+           <h2> He is considered to be very dangerous. He has killed 121 people and has this power that makes him not die. </h2>
+           <h2> ------------------- </h2>
+           <a href="https://media.comicbook.com/2019/10/halloween-kills-teaser-reveals-how-michael-myers-surives-burning-1193894-1280x0.jpeg" width="200" alt="Micheal Myers"> </a>
+      </main>
+      
+      <footer>
+            <h2> REWARD: $9,000,000,000 </h2>
+      </footer>
+      
+</body>
+
+</html>
